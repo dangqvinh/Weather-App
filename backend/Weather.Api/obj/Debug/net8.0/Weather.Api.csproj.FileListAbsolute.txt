@@ -33,3 +33,4 @@ D:\dotnet\weather-app\backend\Weather.Api\obj\Debug\net8.0\refint\Weather.Api.dl
 D:\dotnet\weather-app\backend\Weather.Api\obj\Debug\net8.0\Weather.Api.pdb
 D:\dotnet\weather-app\backend\Weather.Api\obj\Debug\net8.0\Weather.Api.genruntimeconfig.cache
 D:\dotnet\weather-app\backend\Weather.Api\obj\Debug\net8.0\ref\Weather.Api.dll
+D:\dotnet\weather-app\backend\Weather.Api\obj\Debug\net8.0\Weather.Api.sourcelink.json
